@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "anurag@gmail.com",
+      "password": "anurag@123",
+      "data": {
+        "notes": [
+          {
+            "title": "take bath",
+            "description": "take bath at 6"
+          },
+          {
+            "title": "buy groceries",
+            "description": "buy milk, eggs, and bread"
+          },
+          {
+            "title": "meeting with team",
+            "description": "discuss project updates at 10 AM"
+          },
+          {
+            "title": "call mom",
+            "description": "call mom in the evening"
+          },
+          {
+            "title": "workout",
+            "description": "gym session at 7 PM"
+          }
+        ],
+        "archive": [
+          {
+            "title": "read book",
+            "description": "finish reading 'The Great Gatsby'"
+          },
+          {
+            "title": "clean room",
+            "description": "organize and clean the bedroom"
+          }
+        ],
+        "trash": [
+          {
+            "title": "old note 1",
+            "description": "this is an old note"
+          },
+          {
+            "title": "old note 2",
+            "description": "another old note"
+          }
+        ]
+      }
+    }
+  ]
+}
